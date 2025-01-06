@@ -1,14 +1,9 @@
 ##### 기본 정보 입력 ####
 # OpenAI API 설정 패키지
-from dotenv import load_dotenv
 from openai import OpenAI
 
 # 스트림릿 패키지
 import streamlit as st
-
-# load_dotenv()
-# client = OpenAI()
-
 
 
 
